@@ -7,7 +7,7 @@ introSummary: >-
 ---
 ## Gifts
 
-Your presence is gift enough! Seriously. 
+Your presence is gift enough! Seriously.
 
 All we want is for you to spend a Saturday night in Boston with us — and come ready to eat delicious food, drink amazing cocktails, and dance your faces off. Deal? Deal.
 
