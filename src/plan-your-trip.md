@@ -10,7 +10,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 ### Friday Dinner
 
-* **When**: Friday 11/5/22 @ 6:00 - 9:00 PM
+* **When**: Friday 11/4/22 @ 6:00 - 9:00 PM
 * **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
 * **What**: Enjoy a summer cookout w/ burgers & beers on a beautiful dock-side deck overlooking the sunset on The Charles River.
 
