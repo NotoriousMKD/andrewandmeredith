@@ -1,9 +1,8 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
-introSummary: >-
-  You need a plan, Stan! We can help. View all the deets about our the rest of
-  the wedding weekend, where to stay, and how to get here.
+introSummary: You need a plan, Stan! We can help. View all the deets about our
+  the rest of the wedding weekend, where to stay, and how to get here.
 ---
 ## Extra Events
 
@@ -11,13 +10,13 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 ### Friday Dinner
 
-* **When**: Friday 7/17/20 @ 6:00 - 9:00 PM
+* **When**: Friday 11/5/22 @ 6:00 - 9:00 PM
 * **Where**: [MIT Sailing Pavilion](https://goo.gl/maps/18Gd1HS44ThsRVXw6)
 * **What**: Enjoy a summer cookout w/ burgers & beers on a beautiful dock-side deck overlooking the sunset on The Charles River.
 
 ### Sunday Brunch
 
-* **When**: Sunday 7/19/20 @ 9:00 - 11:00 AM
+* **When**: Sunday 11/6/22 @ 9:00 - 11:00 AM
 * **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
 * **What**: Stop by any time for some brunch where you can grab an omelette & say "Au revoir" before heading out.
 
@@ -32,27 +31,25 @@ For our guests' convenience, we have secured 3 different discounted hotel option
 * **Block Rate**: $309
 * **Location**: Harvard Square (0.25 mi from venue)
 * **Booking**: Call [617-864-1200](tel:6178641200) or [book The Charles Hotel online](https://be.synxis.com/?adult=2&arrive=2020-07-17&chain=10237&child=0&configcode=BOSCH&currency=USD&depart=2020-07-19&group=DB2020&hotel=27199&level=hotel&locale=en-US&rooms=1&themecode=BOSCH&trifecta=1)
-* **Deadline**: June 19
+* **Deadline**: TBA
 
 [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
 * **Block Rate**: $209
 * **Location**: Central Square (1 mi from venue)
 * **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582736236051&key=GRP&app=resvlink)
-* **Deadline**: June 29
+* **Deadline**: TBA
 
 [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 
 * **Block Rate**: $179 – 199
 * **Location**: Kendall Square (2 mi from venue)
 * **Booking**: Call [617-494-6600](tel:6174946600) or [book The Marriott online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1582060556263&key=GRP&app=resvlink)
-* **Deadline**: June 26
+* **Deadline**: TBA
 
 ### Airbnb
 
-There are lots of options nearby! Our favorite squares (aka
-
- neighborhoods in Boston-speak) are Inman, Union, Davis, Central, Kendall, and Harvard. If you want to venture a little further, Beacon Hill, South Boston, and Brookline are also very nice.
+There are lots of options nearby! Our favorite squares (aka neighborhoods in Boston-speak) are Inman, Union, Davis, Central, Kendall, and Harvard. If you want to venture a little further, Beacon Hill, South Boston, and Brookline are also very nice.
 
 ## How to Get Here
 
