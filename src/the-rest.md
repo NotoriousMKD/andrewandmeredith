@@ -22,7 +22,7 @@ You can also [view the map full-screen](https://www.google.com/maps/d/viewer?mid
     <figcaption>Custom Google Map - Boston Points of Interest</figcaption>
 </figure>
 
-And if you want some other ideas, here a few hand-picked lists:
+And if you want some other ideas, here are a few hand-picked lists:
 
 * **Thrillist**: [Actually Cool Things to Do In Boston](https://www.thrillist.com/lifestyle/boston/things-to-do-in-boston)
 * **NYTimes**: [36 Hours in Boston](https://www.nytimes.com/2015/09/20/travel/what-to-do-in-36-hours-in-boston.html)

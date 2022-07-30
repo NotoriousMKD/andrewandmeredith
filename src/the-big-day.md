@@ -19,7 +19,7 @@ The **entire event** — ceremony, cocktails, dinner, and dancing — will be 
 
 ### Schedule
 
-We'll be celebrating together from **6:00 PM to 12:00 AM**, and here's a rough idea of what to expect:
+We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough idea of what to expect:
 
 **6:00 PM | Arrival.** Guests arrive to champagne glasses and give each other hearty hellos and hugs.
 
@@ -27,11 +27,11 @@ We'll be celebrating together from **6:00 PM to 12:00 AM**, and here's a rough i
 
 **7:00 PM | Cocktail Hour.** Everyone celebrates by mingling over some cocktails and appetizers.
 
-**8:00 PM | Dinner.** Mingling continues and dinner fare materializes, buffet style. Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.
+**8:00 PM | Dinner.** Mingling continues and dinner fare materializes, buffet style (seating for everyone, but nothing assigned). Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.
 
 **9:00 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
 
-**11:00 PM | Wind Down.** Late night snacks and some bittersweet goodbyes.
+**11:00 PM | Goodbyes.** Late night snacks and some bittersweet goodbyes.
 
 ## Transportation
 
@@ -55,13 +55,13 @@ If you're driving in, we would recommend using the parking garage nearby. Trying
 
 ### Attire
 
-The ceremony and dinner will not be fully seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
+The ceremony will be partially seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
 
 If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/g9kn5sFx2xW5HPpD7) are highly encouraged.
 
 ### Menu
 
-We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions.
+We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! We hope that this will be the best food and drinks you have ever had at a wedding.
 
 There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
 
