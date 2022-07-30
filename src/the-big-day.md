@@ -4,7 +4,7 @@ title: The Big Day
 introSummary: >-
   Imagine an awesome party, at a lively, local spot, with amazing food and
   drinks, where the two hosts just happen to be getting married. Then imagine
-  yourself getting to Boston on November 5 so we can make that daydream a reality.
+  yourself getting to Boston on <b>November 5</b> so we can make that daydream a reality.
 ---
 ## When & Where
 
@@ -21,7 +21,7 @@ The **entire event** — ceremony, cocktails, dinner, and dancing — will be 
 
 We'll be celebrating together from **6:00 PM to 12:00 AM**, and here's a rough idea of what to expect:
 
-**6:00 PM | Arrival.** Guests arrive and give each other hearty hellos and hugs.
+**6:00 PM | Arrival.** Guests arrive to champagne glasses and give each other hearty hellos and hugs.
 
 **6:30 PM | Ceremony.** Andrew & Meredith say I do (and a few other cute things).
 
@@ -31,19 +31,23 @@ We'll be celebrating together from **6:00 PM to 12:00 AM**, and here's a rough i
 
 **9:00 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
 
-**11:30 PM | Wind Down.** Late night snacks and some bittersweet goodbyes.
-
-**12:00 AM | TBD.** After the party it's the afterparty.
+**11:00 PM | Wind Down.** Late night snacks and some bittersweet goodbyes.
 
 ## Transportation
 
+### Shuttle
+
+We'll be providing a shuttle to and from both of our wedding block hotels, Le Meridien and The Marriott. More details TBA soon!
+
 ### Rideshare
 
-The Marriott in Kendall Square and Le Meridian in Central Square are both 10-15 min away by Uber/Lyft, even on a busy summer night.
+If getting your own transportation is a better fit for you, both hotels are 10-15 min away by Uber/Lyft, even on a busy summer night.
 
 ### Walking
 
-If you end up at The Charles Hotel you'll be walking distance, only about 2 blocks away.
+If you end up at The Charles Hotel or the Sheraton Commander you'll be walking distance, only about 2 blocks away.
+
+### Driving
 
 If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. Let us know [when you rsvp](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
 
@@ -57,7 +61,7 @@ If you're looking for a little more direction, we'd recommend a "fancy date nigh
 
 ### Menu
 
-We haven't finalized a menu yet... but we promise it will taste good!  We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions.
+We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! We hope that this will be the best food and drinks you have **ever** had at a wedding. Like the type you might have a few times a year on special occasions.
 
 There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
 

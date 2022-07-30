@@ -9,7 +9,7 @@ introSummary: >-
 
 Your presence is gift enough! Seriously.
 
-All we want is for you to spend a Saturday night in Boston with us — and come ready to eat delicious food, drink amazing cocktails, and dance your faces off. Deal? Deal.
+But if you'd like to get something for us, we've made it a little easier with this online registry (*coming soon!*).
 
 ## Boston: Points of Interest
 
