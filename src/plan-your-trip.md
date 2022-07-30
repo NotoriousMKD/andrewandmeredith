@@ -14,11 +14,69 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 * **Where**: 1st Floor Bar @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
 * **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/).
 
+<div class="atcb">
+  <script type="application/ld+json">
+    {
+      "event": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "🥂 Friday Cocktails | Andrew & Meredith 2022",
+        "description": "1st Floor Bar • Join us for some cheers and beers in the lobby the night before the big day.",
+        "startDate": "11-04-2022T20:00",
+        "endDate": "11-04-2022T22:00",
+        "location": "Le Méridien Boston Cambridge, 20 Sidney St, Cambridge, MA 02139, USA"
+      },
+      "label": "Add to Calendar",
+      "options": [
+        "Apple",
+        "Google",
+        "iCal",
+        "Microsoft365",
+        "Outlook.com",
+        "Yahoo"
+      ],
+      "timeZone": "America/New_York",
+      "timeZoneOffset": "-05:00",
+      "trigger": "click",
+      "iCalFileName": "Reminder-Event"
+    }
+  </script>
+</div>
+
 ### Sunday Brunch
 
 * **When**: Sunday 11/06/20 @ 10:00 AM - 12:00 PM
 * **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
 * **What**: Before you head out, grab some buffet brunch and a heartfelt hug goodbye.
+
+<div class="atcb">
+  <script type="application/ld+json">
+    {
+      "event": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "🥐 Sunday Brunch | Andrew & Meredith 2022",
+        "description": " 3rd Floor Garden Patio • Before you head out, grab some buffet brunch and a heartfelt hug goodbye.",
+        "startDate": "11-06-2022T10:00",
+        "endDate": "11-06-2022T12:00",
+        "location": "Le Méridien Boston Cambridge, 20 Sidney St, Cambridge, MA 02139, USA"
+      },
+      "label": "Add to Calendar",
+      "options": [
+        "Apple",
+        "Google",
+        "iCal",
+        "Microsoft365",
+        "Outlook.com",
+        "Yahoo"
+      ],
+      "timeZone": "America/New_York",
+      "timeZoneOffset": "-05:00",
+      "trigger": "click",
+      "iCalFileName": "Reminder-Event"
+    }
+  </script>
+</div>
 
 ## Where to Stay
 
