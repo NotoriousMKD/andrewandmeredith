@@ -1,0 +1,16 @@
+.atcb-button {
+  background-color: var(--color-theme-highlight);
+  border-radius: 0;
+  border: none;
+  box-shadow: none;
+  font-family: inherit;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  &:focus, &:hover {
+    background-color: var(--color-theme-highlight);
+    box-shadow: none;
+    outline: currentColor auto 1px;
+    text-decoration: underline;
+  }
+}
