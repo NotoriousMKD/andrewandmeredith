@@ -1,0 +1,11 @@
+{% extends 'layouts/base.njk' %}
+{% set showHeader = false %}
+{% set showFooter = false %}
+
+{% block content %}
+  <main class="landing" id="main-content" tabindex="-1">
+    {{ content | safe }}
+  </main>
+{% endblock %}
+
+{{ content | safe }}

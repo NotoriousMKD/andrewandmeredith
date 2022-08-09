@@ -1,0 +1,115 @@
+
+.landing {
+  background-color: gray;
+}
+
+.landing-wrapper {
+  position: relative;
+}
+
+.blobs {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.blob-wrapper {
+  height: 22rem;
+  width: 22rem;
+  position: absolute;
+}
+
+.blob {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+  &.blue.a {
+    bottom: 10rem;
+    left: 11rem;
+  }
+  &.blue.b {
+    bottom: 32rem;
+    right: 20rem;
+    transform: scale(1.7);
+  }
+  &.blue.c {
+    top: 15rem;
+    right: 11rem;
+    transform: rotate(108deg);
+  }
+  &.blue-soft-2.a {
+    bottom: 22rem;
+  }
+  &.blue-soft-2.b {
+    top: 2rem;
+    right: 18rem;
+    transform: rotate(-120deg);
+  }
+  &.blue-soft-1.a {
+    top: 35rem;
+    transform: rotate(-35deg);
+  }
+  &.blue-soft-1.b {
+    top: 10rem;
+    left: 19rem;
+    transform: rotate(122deg) skew(-51deg, 7deg) scale(1.2);
+  }
+  &.blue-intense-2 {
+    bottom: 10rem;
+    left: 8rem;
+    transform: scale(1.9, 1.3) rotate(-2deg);
+  }
+  &.blue-intense-1.a {
+    top: 25rem;
+    left: 14rem;
+    transform: rotate(212deg) scale(0.8);
+  }
+  &.blue-intense-1.b {
+    top: 30rem;
+    right: 19rem;
+    transform: scale(1.8);
+  }
+  &.blue-light-3 {
+    top: 15rem;
+    left: 22rem;
+    transform: scale(1.3) rotate(150deg) skew(-26deg, 42deg);
+  }
+  &.blue-light-2 {
+    bottom: 10rem;
+    right: 24rem;
+  }
+  &.blue-light-1 {
+    bottom: 32rem;
+    left: 4rem;
+  }
+  &.purple.d {
+    left: 1rem;
+    bottom: 2rem;
+    transform: scale(1.8) rotate(-98deg);
+  }
+  &.purple.c {
+    bottom: 24rem;
+    left: 20rem;
+  }
+  &.purple.b {
+    top: 22rem;
+    left: 4rem;
+  }
+}
+
+.date-wrapper {
+  margin: 0 auto;
+  max-width: 42rem;
+  position: relative;
+}
+
+.date {
+  border: 1px solid white;
+  border-radius: 1rem;
+  margin: 3rem;
+  padding: 3rem 6rem;
+}

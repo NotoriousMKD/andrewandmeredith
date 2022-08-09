@@ -1,5 +1,7 @@
 {% extends 'layouts/base.njk' %}
 {% set pageType = 'Homepage' %}
+{% set showHeader = true %}
+{% set showFooter = true %}
 
 {# Intro content #}
 {% set introHeading = title %}
@@ -12,7 +14,7 @@
 {% set postListItems = collections.postFeed %}
 
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{% if postListItems.length < collections.posts.length %}
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
