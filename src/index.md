@@ -6,7 +6,17 @@ introSummary: >-
   Harlow](http://www.aldenharlow.com/) in Boston, MA. It will be awesome.
 ---
 
+<style>
+  body {
+    background-color: #4a286f;
+  }
+</style>
+
 <div class="landing-wrapper">
+  <div class="enter">
+    <a data-confetti data-intro-text href="/home">Enter Andrew & Merdith's wedding website 🎉</a>
+  </div>
+
   <div class="blobs left">
     <div class="blob-wrapper">
       <img class="blob purple b" src="/images/blob-09.svg" />
@@ -135,7 +145,32 @@ introSummary: >-
 
   <div class="noise"></div>
 
-  <div class="date-wrapper">
+  <a class="date-wrapper" data-confetti href="/home">
     <img alt="11-05-22" class="date" src="/images/date.svg" />
-  </div>
+  </a>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+<script>
+  const handleConfettiAndRedirect = event => {
+    event.preventDefault();
+    confetti({
+        particleCount: 300,
+        spread: 250
+    });
+    const link = document.querySelector('[data-intro-text]');
+    link.innerText = 'Getting the party ready';
+    const span = document.createElement('span');
+    span.classList.add('ellipsis', 'loading');
+    link.appendChild(span);
+    setTimeout(() => {
+      document.querySelector('.landing').classList.add('fade-to-white');
+    }, 2000);
+    setTimeout(() => {
+      document.location.href = '/home';
+    }, 4500);
+  }
+  Array.from(document.querySelectorAll("[data-confetti]")).forEach(link => {
+    link.addEventListener('click', handleConfettiAndRedirect);
+  });
+</script>

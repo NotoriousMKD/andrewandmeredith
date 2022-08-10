@@ -1,10 +1,55 @@
-
-.landing {
-  background-color: #4a286f;
+.landing-wrapper {
+  min-height: 100%;
+  position: relative;
 }
 
-.landing-wrapper {
-  position: relative;
+.enter {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  z-index: 1;
+
+  a {
+    color: white;
+    display: inline-block;
+    line-height: 1;
+    padding: 1.5rem;
+    outline: none;
+
+    &:hover {
+      font-weight: bold;
+    }
+  }
+}
+
+.loading {
+  text-align: left;
+  display: inline-block;
+  font-weight: bold;
+  width: 1.25em;
+
+  &:after {
+    content: "..."; // ellipsis
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: bottom;
+    animation: ellipsis steps(4,end) 900ms infinite;
+    width: 0px;
+  }
+}
+
+@keyframes ellipsis {
+  to {
+    width: 1.25em;
+  }
+}
+
+.fade-to-white {
+  animation: fadeToWhite 6s;
+}
+@keyframes fadeToWhite {
+  0% { filter: brightness(none); }
+  100% { filter: brightness(30); }
 }
 
 .blobs {
@@ -137,9 +182,15 @@
 }
 
 .date-wrapper {
+  display: block;
   margin: 0 auto;
   max-width: 42rem;
   position: relative;
+
+  &:hover .date {
+    background-color: rgba(255,255,255,0.1);
+    cursor: pointer;
+  }
 }
 
 .date {
@@ -148,11 +199,12 @@
   margin: 2rem;
   padding: 2rem;
 }
+
 @media screen and (min-width: 34rem) {
   .date {
     border: 1px solid white;
     border-radius: 1rem;
-    margin: 3rem;
+    margin: 4rem;
     padding: 3rem 6rem;
   }
 }
