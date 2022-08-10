@@ -7,6 +7,7 @@
     margin-bottom: get-size(300);
     text-align: center;
     text-decoration: none;
+    @include apply-utility('font', 'herbert');
 
     &:focus, &:hover {
       background: var(--color-theme-highlight);
