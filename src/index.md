@@ -159,7 +159,7 @@ introSummary: >-
         spread: 250
     });
     const link = document.querySelector('[data-intro-text]');
-    link.innerText = 'Getting the party ready';
+    link.innerText = 'Getting the party started';
     const span = document.createElement('span');
     span.classList.add('ellipsis', 'loading');
     link.appendChild(span);
