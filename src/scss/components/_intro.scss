@@ -1,9 +1,18 @@
 .intro {
+  color: white;
   background: var(--color-theme-highlight-block);
+  position: relative;
+  overflow: hidden;
+
+  &__blobs {
+    position: absolute;
+    inset: 0;
+  }
 
   &__summary {
     --flow-space: #{get-size(500)};
     font-size: get-size(500);
+    position: relative;
 
     a {
       color: currentColor;
@@ -17,6 +26,7 @@
   &__heading {
     max-width: 40ex;
     color: var(--color-theme-feature-text);
+    position: relative;
 
     &--compact {
       max-width: 20ex;
