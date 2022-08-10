@@ -152,15 +152,15 @@ introSummary: >-
 
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
 <script>
-  const handleConfettiAndRedirect = event => {
+  function handleConfettiAndRedirect(event) {
     event.preventDefault();
     confetti({
         particleCount: 300,
         spread: 250
     });
-    const link = document.querySelector('[data-intro-text]');
+    var link = document.querySelector('[data-intro-text]');
     link.innerText = 'Getting the party started';
-    const span = document.createElement('span');
+    var span = document.createElement('span');
     span.classList.add('ellipsis', 'loading');
     link.appendChild(span);
     setTimeout(() => {
@@ -170,7 +170,7 @@ introSummary: >-
       document.location.href = '/home';
     }, 4500);
   }
-  Array.from(document.querySelectorAll("[data-confetti]")).forEach(link => {
+  Array.from(document.querySelectorAll("[data-confetti]")).forEach(function (link) {
     link.addEventListener('click', handleConfettiAndRedirect);
   });
 </script>
