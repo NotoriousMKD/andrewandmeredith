@@ -145,7 +145,7 @@ introSummary: >-
   <a class="date-wrapper" data-confetti href="/home">
     <div class="enter">
       <div data-intro-text>
-        Enter Andrew & Merdith's wedding website 🎉
+        Enter the wedding website 🎉
       </div>
     </div>
     <div class="date">

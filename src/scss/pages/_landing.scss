@@ -8,7 +8,7 @@
 }
 
 .enter {
-  font-size: clamp(0.8125rem, 2.5vw, 1rem);
+  font-size: 0.75rem;
   position: relative;
   width: 100%;
   z-index: 1;
@@ -23,10 +23,21 @@
     text-decoration: none;
     word-break: break-word;
     border-radius: 1rem;
-    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
     background: linear-gradient(to left, var(--color-highlight) 50%, white 50%) right;
     background-size: 200% 100%;
     transition: background-position 2s cubic-bezier(0.4, 0, 1, 1);
+    font-weight: 500;
+    font-family: Brandon Grotesque;
+
+    &:hover {
+      opacity: 0.9;
+    }
+
+    &:focus {
+      outline: 1px solid white;
+    }
 
     &.loading {
       background-position: left;
