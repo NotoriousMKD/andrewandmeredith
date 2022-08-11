@@ -12,14 +12,14 @@
     &:focus, &:hover {
       background: var(--color-theme-highlight);
     }
-    
+
     @include media-query('md') {
       display: inline-block;
       margin-bottom: 0;
-      padding: 0 .75rem; 
+      padding: 0 .75rem;
 
       span {
-        padding: 0; 
+        padding: 0.25rem 0 0;
       }
     }
   }
@@ -28,8 +28,8 @@
     border-bottom: 1px solid
   }
 
-  li {    
-    @include media-query('md') {      
+  li {
+    @include media-query('md') {
       a {
         padding: 0 .75rem;
       }

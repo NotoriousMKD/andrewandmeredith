@@ -1,40 +1,36 @@
 .landing-wrapper {
   min-height: 100%;
   position: relative;
-}
-
-.enter {
-  position: absolute;
-  text-align: center;
-  width: 100%;
-  z-index: 1;
 
   a {
-    color: white;
-    display: inline-block;
-    line-height: 1;
-    padding: 1.5rem;
-    outline: none;
-
-    &:hover {
-      font-weight: bold;
-    }
+    text-decoration: none;
   }
 }
 
-.loading {
-  text-align: left;
-  display: inline-block;
-  font-weight: bold;
-  width: 1.25em;
+.enter {
+  font-size: clamp(0.8125rem, 2.5vw, 1rem);
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  text-align: center;
 
-  &:after {
-    content: "..."; // ellipsis
-    overflow: hidden;
+  > * {
+    color: var(--color-dark);
+    position: relative;
     display: inline-block;
-    vertical-align: bottom;
-    animation: ellipsis steps(4,end) 900ms infinite;
-    width: 0px;
+    background: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    word-break: break-word;
+    border-radius: 1rem;
+    font-weight: bold;
+    background: linear-gradient(to left, var(--color-highlight) 50%, white 50%) right;
+    background-size: 200% 100%;
+    transition: background-position 2s cubic-bezier(0.4, 0, 1, 1);
+
+    &.loading {
+      background-position: left;
+    }
   }
 }
 
@@ -182,29 +178,48 @@
 }
 
 .date-wrapper {
-  display: block;
+  display: flex;
   margin: 0 auto;
   max-width: 42rem;
   position: relative;
+  height: 100vh;
+  flex-direction: column;
 
-  &:hover .date {
-    background-color: rgba(255,255,255,0.1);
-    cursor: pointer;
+  > * {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
   }
+}
+
+.spacer {
+  visibility: hidden;
 }
 
 .date {
   border: 1px solid white;
   border-radius: 1rem;
-  margin: 2rem;
   padding: 2rem;
+  margin: 0 2rem;
+  flex-grow: 1;
+
+  &:hover {
+    background-color: rgba(255,255,255,0.1);
+    cursor: pointer;
+  }
 }
 
 @media screen and (min-width: 34rem) {
   .date {
     border: 1px solid white;
     border-radius: 1rem;
-    margin: 4rem;
     padding: 3rem 6rem;
   }
+}
+
+.date-inner {
+  height: 100%;
+  width: 100%;
+  background: url(/images/date.svg) no-repeat center;
 }

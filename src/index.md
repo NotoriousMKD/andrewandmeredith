@@ -13,9 +13,6 @@ introSummary: >-
 </style>
 
 <div class="landing-wrapper">
-  <div class="enter">
-    <a data-confetti data-intro-text href="/home">Enter Andrew & Merdith's wedding website 🎉</a>
-  </div>
 
   <div class="blobs left">
     <div class="blob-wrapper">
@@ -146,7 +143,15 @@ introSummary: >-
   <div class="noise"></div>
 
   <a class="date-wrapper" data-confetti href="/home">
-    <img alt="11-05-22" class="date" src="/images/date.svg" />
+    <div class="enter">
+      <div data-intro-text>
+        Enter Andrew & Merdith's wedding website 🎉
+      </div>
+    </div>
+    <div class="date">
+      <div aria-label="11-05-22" role="img" class="date-inner"></div>
+    </div>
+    <div class="spacer">empty space</div>
   </a>
 </div>
 
@@ -158,11 +163,9 @@ introSummary: >-
         particleCount: 300,
         spread: 250
     });
-    var link = document.querySelector('[data-intro-text]');
-    link.innerText = 'Getting the party started';
-    var span = document.createElement('span');
-    span.classList.add('ellipsis', 'loading');
-    link.appendChild(span);
+    var cta = document.querySelector('[data-intro-text]');
+    cta.innerText = 'Getting the party started...';
+    cta.classList.add('loading');
     setTimeout(() => {
       document.querySelector('.landing').classList.add('fade-to-white');
     }, 2000);
