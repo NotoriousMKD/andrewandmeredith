@@ -20,11 +20,11 @@
     }
 
     &--cta {
-      background: var(--color-text);
+      background: var(--color-primary);
       letter-spacing: 2px;
       margin-top: get-size(300);
       width: 100%;
-      
+
       @include media-query('md') {
         margin-left: get-size(300);
         margin-top: 0;
@@ -33,7 +33,7 @@
 
       &:focus, &:hover {
         a {
-          color: var(--color-text);
+          color: var(--color-primary);
         }
       }
 
