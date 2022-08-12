@@ -11,7 +11,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 ### Friday Cocktails
 
 * **When**: Friday 11/04/20 @ 8:00 PM - 10:00 PM
-* **Where**: 1st Floor Bar @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
+* **Where**: [1st Floor Bar](https://www.marriott.com/en-us/hotels/bosbm-le-meridien-boston-cambridge/dining/) @ Le Meriden
 * **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/).
 
 <div class="atcb">
@@ -46,7 +46,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 ### Sunday Brunch
 
 * **When**: Sunday 11/06/20 @ 10:00 AM - 12:00 PM
-* **Where**: 3rd Floor Garden Patio @ [Le Meriden](https://goo.gl/maps/rdZVPF9Lhruc7XRZA)
+* **Where**: [Amuse Restaurant](https://www.instagram.com/amusecambridge/) @ Le Merideen
 * **What**: Before you head out, grab some buffet brunch and a heartfelt hug goodbye.
 
 <div class="atcb">
@@ -55,8 +55,8 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
       "event": {
         "@context": "https://schema.org",
         "@type": "Event",
-        "name": "🥐 Sunday Brunch | Andrew & Meredith 2022",
-        "description": " 3rd Floor Garden Patio • Before you head out, grab some buffet brunch and a heartfelt hug goodbye.",
+        "name": "🍳 Sunday Brunch | Andrew & Meredith 2022",
+        "description": "Amuse Restaurant • Before you head out, grab some buffet brunch and a heartfelt hug goodbye.",
         "startDate": "11-06-2022T10:00",
         "endDate": "11-06-2022T12:00",
         "location": "Le Méridien Boston Cambridge, 20 Sidney St, Cambridge, MA 02139, USA"
@@ -84,14 +84,14 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 For our guests' convenience, we have secured 2 different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
 
-[Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
+[**Le Meridien**](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
 * **Block Rate**: $219
 * **Location**: Central Square (1.5 mi from venue)
 * **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online](https://www.marriott.com/events/start.mi?id=1647348171625&key=GRP)
 * **Deadline**: October 7
 
-[The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
+[**The Marriott**](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 
 * **Block Rate**: $199
 * **Location**: Kendall Square (2 mi from venue)
@@ -100,12 +100,12 @@ For our guests' convenience, we have secured 2 different discounted hotel option
 
 While we don't have a block rate at these hotels, we highly recommend them if you're looking for some options closer to the venue:
 
-[The Charles](https://goo.gl/maps/5J8ue6nXNbjY6iUC6)
+[**The Charles**](https://goo.gl/maps/5J8ue6nXNbjY6iUC6)
 
 * **Location**: Harvard Square (0.25 mi from venue)
 * **Booking**: Call [617-864-1200](tel:6178641200) or [book The Charles online](https://www.charleshotel.com/)
 
-[The Sheraton Commander](https://goo.gl/maps/TGkQzReBFa7rtYEm8)
+[**The Sheraton Commander**](https://goo.gl/maps/TGkQzReBFa7rtYEm8)
 
 * **Location**: Harvard Square (0.3 mi from venue)
 * **Booking**: Call [617-864-1200](tel:6178641200) or [book The Sheraton Commander online](https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/)

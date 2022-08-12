@@ -1,16 +1,16 @@
 .atcb-button {
-  background-color: var(--color-theme-highlight);
-  border-radius: 0;
-  border: none;
+  color: var(--color-primary);
+  background-color: rgba(30, 27, 106, 0.05);
+  border-radius: 1rem;
+  outline: currentColor auto 1px;
   box-shadow: none;
-  font-family: inherit;
+  @include apply-utility('font', 'brandon');
+  font-size: 0.75rem;
   letter-spacing: 2px;
   text-transform: uppercase;
 
   &:focus, &:hover {
-    background-color: var(--color-theme-highlight);
+    background-color: rgba(30, 27, 106, 0.10);
     box-shadow: none;
-    outline: currentColor auto 1px;
-    text-decoration: underline;
   }
 }
