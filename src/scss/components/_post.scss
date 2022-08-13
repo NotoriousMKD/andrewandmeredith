@@ -18,6 +18,11 @@
       @include apply-utility('leading', 'tight');
     }
 
+    h4 a:not([class]) {
+      background: none;
+      font-size: 1.375rem;
+    }
+
     a:not([class]) {
       color: var(--color-dark);
       position: relative;
@@ -55,6 +60,7 @@
       border-left: 0.4rem solid var(--color-theme-primary-glare);
       margin-left: 0;
       margin-right: 0;
+      margin-top: 1rem;
       padding-left: get-size(500);
       font-size: 1rem;;
 
@@ -84,6 +90,7 @@
     ol:not([class]),
     ul:not([class]) {
       margin-left: get-size(800);
+      margin-top: 1rem;
 
       li + li {
         margin-top: get-size(300);

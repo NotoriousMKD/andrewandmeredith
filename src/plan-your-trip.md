@@ -83,7 +83,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
 
-[**Le Meridien**](https://goo.gl/maps/Bs52XamKjugYJxyU6)
+#### [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
 * **Block Rate**: $219
 * **Location**: Central Square (1.5 mi from venue)
@@ -94,7 +94,7 @@ For our guests' convenience, we have secured two different discounted hotel opti
 >
 > We're staying at Le Meridien along with our wedding party and we're hosting Friday Cocktails and Sunday Brunch there. We'll also have trolleys transporting folks to and from both wedding block hotels.
 
-[**The Marriott**](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
+#### [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 
 * **Block Rate**: $199
 * **Location**: Kendall Square (2 mi from venue)
@@ -105,12 +105,12 @@ For our guests' convenience, we have secured two different discounted hotel opti
 
 While we don't have a block rate at these hotels, we highly recommend them if you're looking for some options closer to the venue:
 
-[**The Charles**](https://goo.gl/maps/5J8ue6nXNbjY6iUC6)
+#### [The Charles](https://goo.gl/maps/5J8ue6nXNbjY6iUC6)
 
 * **Location**: Harvard Square (0.25 mi from venue)
 * **Booking**: Call [617-864-1200](tel:6178641200) or [book The Charles online](https://www.charleshotel.com/)
 
-[**The Sheraton Commander**](https://goo.gl/maps/TGkQzReBFa7rtYEm8)
+#### [The Sheraton Commander](https://goo.gl/maps/TGkQzReBFa7rtYEm8)
 
 * **Location**: Harvard Square (0.3 mi from venue)
 * **Booking**: Call [617-864-1200](tel:6178641200) or [book The Sheraton Commander online](https://www.marriott.com/en-us/hotels/boscs-sheraton-commander-hotel/overview/)
