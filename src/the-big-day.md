@@ -32,7 +32,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 **9:00 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
 
 **11:00 PM | Goodbyes.** Late night snacks and some bittersweet goodbyes.
-      
+
 <div class="atcb">
   <script type="application/ld+json">
     {
@@ -40,7 +40,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
         "@context": "https://schema.org",
         "@type": "Event",
         "name": "💍 Ceremony + Reception | Andrew & Meredith 2022",
-        "description": "The entire event — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [url]http://www.aldenharlow.com|Alden & Harlow[/url]. It's a cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves.<br><br>Schedule<br><br>We'll be celebrating together from 6:00 PM to 11:00 PM, and here's a rough idea of what to expect:<br><br>6:00 PM | Arrival. Guests arrive to champagne glasses and give each other hearty hellos and hugs.<br>6:30 PM | Ceremony. Andrew & Meredith say "I do" (and a few other cute things).<br>7:00 PM | Cocktail Hour. Everyone celebrates by mingling over some cocktails and appetizers.<br>8:00 PM | Dinner. Mingling continues and dinner fare materializes, buffet style (seating for everyone, but nothing assigned). Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.<br>9:00 PM | Dancing. Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!<br>11:00 PM | Goodbyes. Late night snacks and some bittersweet goodbyes.",
+        "description": "[h2]Location[/h2]The [strong]entire event[/strong] – ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [url]http://www.aldenharlow.com|Alden & Harlow[/url]. It's a cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves.\n\n[h2]Schedule[/h2]We'll be celebrating together from [strong]6:00 PM to 11:00 PM[/strong], and here's a rough idea of what to expect:\n\n[strong]6:00 PM | Arrival[/strong]\n. Guests arrive to champagne glasses and give each other hearty hellos and hugs.\n\n[strong]6:30 PM | Ceremony[/strong]\n. Andrew and Meredith say 'I do' (and a few other cute things).\n\n[strong]7:00 PM | Cocktail Hour[/strong]\n. Everyone celebrates by mingling over some cocktails and appetizers.\n\n[strong]8:00 PM | Dinner[/strong]\n. Mingling continues and dinner fare materializes, buffet style (seating for everyone, but nothing assigned). Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.\n\n[strong]9:00 PM | Dancing[/strong]\n. Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!\n\n[strong]11:00 PM | Goodbyes[/strong]\n. Late night snacks and some bittersweet goodbyes.",
         "startDate": "11-05-2022T18:00",
         "endDate": "11-05-2022T23:00",
         "location": "Alden & Harlow, 40 Brattle St, Cambridge, MA 02138, USA"
@@ -55,7 +55,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
+      "timeZoneOffset": "-04:00",
       "trigger": "click",
       "iCalFileName": "Reminder-Event"
     }
@@ -65,7 +65,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 ## Transportation
 
 ### Iconic Boston Trolley
-      
+
 If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing a trolley to shuttle guests to and from either of our wedding block hotels, Le Meridien and The Marriott Cambridge, to the restaurant on the wedding day. More details TBA soon!
 
 ### Rideshare

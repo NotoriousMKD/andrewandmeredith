@@ -35,7 +35,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
+      "timeZoneOffset": "-04:00",
       "trigger": "click",
       "iCalFileName": "Reminder-Event"
     }
@@ -70,7 +70,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
+      "timeZoneOffset": "-04:00",
       "trigger": "click",
       "iCalFileName": "Reminder-Event"
     }

@@ -1,6 +1,6 @@
 .atcb-button {
   color: var(--color-primary);
-  background-color: rgba(30, 27, 106, 0.05);
+  background-color: white;
   border-radius: 1rem;
   outline: currentColor auto 1px;
   box-shadow: none;
@@ -8,7 +8,42 @@
   font-size: 0.75rem;
   letter-spacing: 2px;
   text-transform: uppercase;
-
+}
+.atcb-list-wrapper {
+  padding: 0;
+}
+.atcb-button.atcb-active:not(.atcb-modal-style,.atcb-dropoverlay),
+.atcb-button.atcb-single:focus, .atcb-button.atcb-single:hover {
+  box-shadow: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid var(--atcb-border);
+}
+.atcb-list.atcb-light.atcb-generated-button {
+  box-shadow: none;
+  top: 0.5rem;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+.atcb-list {
+  background-color: white;
+}
+.atcb-list-item {
+  background: white;
+  color: var(--color-primary);
+  outline: 0;
+  box-shadow: none;
+  font-family: 'Brandon Grotesque',sans-serif;
+  font-size: .75rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 600;
+  padding: 0.5rem 0.75rem !important;
+}
+.atcb-button,
+.atcb-button.atcb-active:not(.atcb-modal-style,.atcb-dropoverlay),
+.atcb-button.atcb-single:focus, .atcb-button.atcb-single:hover,
+.atcb-list-item {
   &:focus, &:hover {
     background-color: rgba(30, 27, 106, 0.10);
     box-shadow: none;
