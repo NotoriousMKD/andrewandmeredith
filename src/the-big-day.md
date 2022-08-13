@@ -3,14 +3,15 @@ layout: layouts/page.njk
 title: The Big Day
 introSummary: >-
   Imagine an awesome party, at a lively, local spot, with amazing food and
-  drinks, where the two hosts just happen to be getting married. Then imagine
-  yourself getting to Boston on <b>November 5</b> so we can make that daydream a reality.
+  drinks, where two people you love just happen to be getting married. Then
+  imagine yourself getting to Boston on <b>November 5</b> so we can make that
+  daydream a reality.
 ---
 ## When & Where
 
 ### Location
 
-The **entire event** — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite restaurants in Boston, [Alden & Harlow](http://www.aldenharlow.com). It's a cozy spot with a whole lot of character. And lucky for us, we'll have the whole place to ourselves.
+The **entire event** — ceremony, cocktails, dinner, and dancing — will be held at one of our favorite spots in Boston, [Alden & Harlow](http://www.aldenharlow.com). It's cozy and intimate with a whole lot of character, and the food and drinks will knock your socks off.
 
 <figure>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.5428998188754!2d-71.12359168454327!3d42.373579879186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37768306eba37%3A0xa3a498bf2ae4121d!2sAlden%20%26%20Harlow!5e0!3m2!1sen!2sus!4v1583016005899!5m2!1sen!2sus" width="792" height="446" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
@@ -90,7 +91,7 @@ If you're looking for a little more direction, we'd recommend a "fancy date nigh
 
 ### Menu
 
-We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! We hope that this will be the best food and drinks you have ever had at a wedding.
+We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good!
 
 There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten averse... If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
 

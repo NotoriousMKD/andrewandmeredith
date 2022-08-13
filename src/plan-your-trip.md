@@ -11,7 +11,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 * **When**: Friday 11/04/20 @ 8:00 PM - 10:00 PM
 * **Where**: [1st Floor Bar](https://www.marriott.com/en-us/hotels/bosbm-le-meridien-boston-cambridge/dining/) @ Le Meriden
-* **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/).
+* **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/). It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
 
 <div class="atcb">
   <script type="application/ld+json">
@@ -46,7 +46,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 * **When**: Sunday 11/06/20 @ 10:00 AM - 12:00 PM
 * **Where**: [Amuse Restaurant](https://www.instagram.com/amusecambridge/) @ Le Merideen
-* **What**: Before you head out, grab some buffet brunch and a heartfelt hug goodbye.
+* **What**: Before you head out, grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
 
 <div class="atcb">
   <script type="application/ld+json">
