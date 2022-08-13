@@ -23,7 +23,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 **6:00 PM | Arrival.** Guests arrive to champagne glasses and give each other hearty hellos and hugs.
 
-**6:30 PM | Ceremony.** Andrew & Meredith say I do (and a few other cute things).
+**6:30 PM | Ceremony.** Andrew & Meredith say "I do" (and a few other cute things).
 
 **7:00 PM | Cocktail Hour.** Everyone celebrates by mingling over some cocktails and appetizers.
 
@@ -35,9 +35,9 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 ## Transportation
 
-### Shuttle
-
-We'll be providing a shuttle to and from both of our wedding block hotels, Le Meridien and The Marriott. More details TBA soon!
+### Iconic Boston Trolley
+      
+If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing a trolley to shuttle guests to and from either of our wedding block hotels, Le Meridien and The Marriott Cambridge, to the restaurant on the wedding day. More details TBA soon!
 
 ### Rideshare
 
@@ -49,13 +49,13 @@ If you end up at The Charles Hotel or the Sheraton Commander you'll be walking d
 
 ### Driving
 
-If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. Let us know [when you rsvp](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
+If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. Let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
 
 ## The Vibe
 
 ### Attire
 
-The ceremony will be partially seated, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
+The ceremony will be partially seated and the dinner will be mingle-y, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
 
 If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/g9kn5sFx2xW5HPpD7) are highly encouraged.
 
@@ -63,7 +63,7 @@ If you're looking for a little more direction, we'd recommend a "fancy date nigh
 
 We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! We hope that this will be the best food and drinks you have ever had at a wedding.
 
-There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten no-thank-you-ers. If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
+There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten averse... If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
 
 ## Kids
 
