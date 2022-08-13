@@ -55,12 +55,28 @@
       border-left: 0.4rem solid var(--color-theme-primary-glare);
       margin-left: 0;
       padding-left: get-size(500);
-      font-style: italic;
-      font-size: get-size(600);
+      font-size: 1rem;;
+
+      background: #1d74bb;
+      color: white;
+      border: .4rem solid #1d74bb;
+      border-radius: 0.25rem;
+      padding-left: 0;
 
       p {
-        opacity: 0.85;
-        padding: get-size(500) 0;
+        opacity: 0.9;
+        background: white;
+        color: #555;
+        padding: 1rem;
+
+        &:first-child {
+          background-color: #1d74bb;
+          color: white;
+          padding: 0.25rem .5rem;
+          font-family: 'Brandon Grotesque';
+          font-size: 1.2rem;
+          font-weight: bold;
+        }
       }
     }
 

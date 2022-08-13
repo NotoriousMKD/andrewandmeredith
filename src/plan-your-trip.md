@@ -79,9 +79,9 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 ## Where to Stay
 
-### Hotels
+### Wedding Block Hotels
 
-For our guests' convenience, we have secured 2 different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
+For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
 
 [**Le Meridien**](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
@@ -90,12 +90,18 @@ For our guests' convenience, we have secured 2 different discounted hotel option
 * **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online](https://www.marriott.com/events/start.mi?id=1647348171625&key=GRP)
 * **Deadline**: October 7
 
+> ☝️ Our Hotel
+>
+> We're staying at Le Meridien along with our wedding party. We're also hosting Friday Cocktails and Sunday Brunch there. If you want to be where the action is, this is the place! We'll also have trolleys transporting folks to and from both wedding block hotels.
+
 [**The Marriott**](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 
 * **Block Rate**: $199
 * **Location**: Kendall Square (2 mi from venue)
 * **Booking**: Call [617-494-6600](tel:6174946600) or [book The Marriott online](https://www.marriott.com/events/start.mi?id=1648493727073&key=GRP)
 * **Deadline**: October 7
+
+### Additional Hotels
 
 While we don't have a block rate at these hotels, we highly recommend them if you're looking for some options closer to the venue:
 
