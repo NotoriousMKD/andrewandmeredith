@@ -1,8 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Plan Your Trip
-introSummary: You need a plan, Stan! We can help. View all the deets about our
-  the rest of the wedding weekend, where to stay, and how to get here.
+introSummary: You need a plan, Stan! We can help. View all the deets about the rest of the wedding weekend, where to stay, and how to get here.
 ---
 ## Extra Events
 
