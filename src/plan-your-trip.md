@@ -135,7 +135,7 @@ Uber and Lyft are everywhere and very convenient, like any major city. We find t
 
 ### Subway
 
-If you're feeling adventurous and thrifty the [MBTA](https://www.mbta.com/schedules/subway) is also a great option. We recommend a day pass or weekend pass for open-ended exploring.
+If you're feeling adventurous and thrifty the [MBTA](https://www.mbta.com/schedules/subway) is also a great option. We recommend a day pass for open-ended exploring.
 
 ### Walking & Biking
 
