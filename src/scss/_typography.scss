@@ -1,8 +1,8 @@
 // Herbert
 @font-face {
   font-family: 'Herbert';
-  src: url('Herbert-Regular-latin.woff2') format('woff2'),
-      url('Herbert-Regular-latin.woff') format('woff');
+  src: url('/fonts/Herbert-Regular-latin.woff2') format('woff2'),
+      url('/fonts/Herbert-Regular-latin.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -11,16 +11,16 @@
 // Playfair Display
 @font-face {
   font-family: 'Playfair Display';
-  src: url('PlayfairDisplay-ExtraBold-latin.woff2') format('woff2'),
-      url('PlayfairDisplay-ExtraBold-latin.woff') format('woff');
+  src: url('/fonts/PlayfairDisplay-ExtraBold-latin.woff2') format('woff2'),
+      url('/fonts/PlayfairDisplay-ExtraBold-latin.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Playfair Display';
-  src: url('PlayfairDisplay-Regular-latin.woff2') format('woff2'),
-      url('PlayfairDisplay-Regular-latin.woff') format('woff');
+  src: url('/fonts/PlayfairDisplay-Regular-latin.woff2') format('woff2'),
+      url('/fonts/PlayfairDisplay-Regular-latin.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -29,24 +29,24 @@
 // Brandon Grotesque
 @font-face {
   font-family: 'Brandon Grotesque';
-  src: url('BrandonGrotesque-Medium-latin.woff2') format('woff2'),
-      url('BrandonGrotesque-Medium-latin.woff') format('woff');
+  src: url('/fonts/BrandonGrotesque-Medium-latin.woff2') format('woff2'),
+      url('/fonts/BrandonGrotesque-Medium-latin.woff') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Brandon Grotesque';
-  src: url('BrandonGrotesque-Bold-latin.woff2') format('woff2'),
-      url('BrandonGrotesque-Bold-latin.woff') format('woff');
+  src: url('/fonts/BrandonGrotesque-Bold-latin.woff2') format('woff2'),
+      url('/fonts/BrandonGrotesque-Bold-latin.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Brandon Grotesque';
-  src: url('BrandonGrotesque-Black-latin.woff2') format('woff2'),
-      url('BrandonGrotesque-Black-latin.woff') format('woff');
+  src: url('/fonts/BrandonGrotesque-Black-latin.woff2') format('woff2'),
+      url('/fonts/BrandonGrotesque-Black-latin.woff') format('woff');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
