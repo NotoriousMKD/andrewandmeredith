@@ -4,6 +4,7 @@
     display: block;
     font-weight: 700;
     line-height: 1.5;
+    padding-top: 0.25rem;
     margin-bottom: get-size(300);
     text-align: center;
     text-decoration: none;
@@ -16,11 +17,8 @@
     @include media-query('md') {
       display: inline-block;
       margin-bottom: 0;
-      padding: 0 .75rem;
-
-      span {
-        padding: 0.25rem 0 0;
-      }
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
     }
   }
 
