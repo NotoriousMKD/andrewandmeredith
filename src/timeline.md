@@ -9,7 +9,7 @@ introSummary: The main event is on Saturday, but we'll be celebrating all weeken
 
 * **When**: Friday 11/04/20 @ 8:00 PM - 10:00 PM
 * **Where**: [1st Floor Bar](https://www.marriott.com/en-us/hotels/bosbm-le-Méridien-boston-cambridge/dining/) @ Le Meriden
-* **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/). It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
+* **What**: Join us for some cheers and beers in the lobby the night before [The Wedding](/wedding/). It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
 
 <div class="atcb">
   <script type="application/ld+json">
@@ -46,7 +46,7 @@ introSummary: The main event is on Saturday, but we'll be celebrating all weeken
 
 * **When**: Saturday 11/05/20 @ 06:00 PM - 11:00 PM
 * **Where**: [Alden & Harlow](http://www.aldenharlow.com)
-* **What**: We're getting married! Check out [The Big Day](/the-big-day) for more details.
+* **What**: We're getting married! Check out [The Wedding](/wedding) for more details.
 
 <div class="atcb">
   <script type="application/ld+json">
