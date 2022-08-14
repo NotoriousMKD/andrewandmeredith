@@ -1,15 +1,9 @@
 ---
 layout: layouts/page.njk
-title: The Rest
+title: Explore Boston
 introSummary: >-
-  Anything we missed? Find it here, including ideas about how to spend the rest
-  of your time while you're in Boston.
+  Anything we missed? Find it here, including ideas about how to spend the rest of your time while you're in Boston.
 ---
-## Gifts
-
-Your presence is gift enough! Seriously.
-
-But if you'd like to get something for us, we've made it a little easier with this online registry (*coming soon!*).
 
 ## Boston: Points of Interest
 

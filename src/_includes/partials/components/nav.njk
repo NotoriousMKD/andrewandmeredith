@@ -14,7 +14,10 @@
         {% endif %}
 
         <li class="nav__item">
-          <a href="{{ item.url }}"{{ relAttribute | safe }}{{ currentAttribute | safe }}>{{ item.text }}</a>
+          <a href="{{ item.url }}"{{ relAttribute | safe }}{{ currentAttribute | safe }}>
+            <span class="mobile">{{ item.mobileText }}</span>
+            <span class="default">{{ item.text }}</span>
+          </a>
         </li>
       {% endfor %}
 

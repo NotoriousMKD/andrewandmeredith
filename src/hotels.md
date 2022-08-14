@@ -1,81 +1,8 @@
 ---
 layout: layouts/page.njk
-title: Plan Your Trip
+title: Hotels & Travel
 introSummary: You need a plan, Stan! We can help. View all the deets about the rest of the wedding weekend, where to stay, and how to get here.
 ---
-## Extra Events
-
-The main event is on Saturday, but we'll be celebrating all weekend — and you're *all* invited! The Friday cocktails and Sunday brunch will both be casual events (non-seated, come and go as you want). We'd love to have an idea of who to expect, so please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9).
-
-### Friday Cocktails
-
-* **When**: Friday 11/04/20 @ 8:00 PM - 10:00 PM
-* **Where**: [1st Floor Bar](https://www.marriott.com/en-us/hotels/bosbm-le-meridien-boston-cambridge/dining/) @ Le Meriden
-* **What**: Join us for some cheers and beers in the lobby the night before [the big day](/the-big-day/). It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
-
-<div class="atcb">
-  <script type="application/ld+json">
-    {
-      "event": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "🥂 Friday Cocktails | Andrew & Meredith 2022",
-        "description": "1st Floor Bar • Join us for some cheers and beers in the lobby the night before the big day.",
-        "startDate": "11-04-2022T20:00",
-        "endDate": "11-04-2022T22:00",
-        "location": "Le Méridien Boston Cambridge, 20 Sidney St, Cambridge, MA 02139, USA"
-      },
-      "label": "Add to Calendar",
-      "options": [
-        "Apple",
-        "Google",
-        "iCal",
-        "Microsoft365",
-        "Outlook.com",
-        "Yahoo"
-      ],
-      "timeZone": "America/New_York",
-      "timeZoneOffset": "-04:00",
-      "trigger": "click",
-      "iCalFileName": "Reminder-Event"
-    }
-  </script>
-</div>
-
-### Sunday Brunch
-
-* **When**: Sunday 11/06/20 @ 10:00 AM - 12:00 PM
-* **Where**: [Amuse Restaurant](https://www.instagram.com/amusecambridge/) @ Le Merideen
-* **What**: Before you head out, grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
-
-<div class="atcb">
-  <script type="application/ld+json">
-    {
-      "event": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "🍳 Sunday Brunch | Andrew & Meredith 2022",
-        "description": "Amuse Restaurant • Before you head out, grab some buffet brunch and a heartfelt hug goodbye.",
-        "startDate": "11-06-2022T10:00",
-        "endDate": "11-06-2022T12:00",
-        "location": "Le Méridien Boston Cambridge, 20 Sidney St, Cambridge, MA 02139, USA"
-      },
-      "label": "Add to Calendar",
-      "options": [
-        "Apple",
-        "Google",
-        "iCal",
-        "Microsoft365",
-        "Outlook.com",
-        "Yahoo"
-      ],
-      "timeZone": "America/New_York",
-      "timeZoneOffset": "-04:00",
-      "trigger": "click",
-      "iCalFileName": "Reminder-Event"
-    }
-  </script>
-</div>
 
 ## Where to Stay
 
@@ -83,7 +10,7 @@ The main event is on Saturday, but we'll be celebrating all weekend — and you'
 
 For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
 
-#### [Le Meridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
+#### [Le Méridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
 * **Block Rate**: $219
 * **Location**: Central Square (1.5 mi from venue)
@@ -92,7 +19,7 @@ For our guests' convenience, we have secured two different discounted hotel opti
 
 > ☝️ Our Hotel
 >
-> We're staying at Le Meridien along with our wedding party and we're hosting Friday Cocktails and Sunday Brunch there. We'll also have trolleys transporting folks to and from both wedding block hotels.
+> We're staying at Le Méridien along with our wedding party and we're hosting Friday Cocktails and Sunday Brunch there. We'll also have trolleys transporting folks to and from both wedding block hotels.
 
 #### [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 

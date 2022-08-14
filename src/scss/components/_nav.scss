@@ -17,6 +17,23 @@
       text-decoration: none;
       width: 100%;
       word-break: break-word;
+
+
+      & > .default {
+        display: none;
+
+        @include media-query('md') {
+          display: inline-block;
+        }
+      }
+
+      & > .mobile {
+        display: inline-block;
+
+        @include media-query('md') {
+          display: none;
+        }
+      }
     }
 
     &--cta {

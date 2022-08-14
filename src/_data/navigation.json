@@ -1,16 +1,29 @@
 {
   "items": [
     {
-      "text": "The Big Day",
-      "url": "/the-big-day/"
+      "text": "Timeline of Events",
+      "mobileText": "Timeline",
+      "url": "/timeline/"
     },
     {
-      "text": "Plan Your Trip",
-      "url": "/plan-your-trip/"
+      "text": "The Wedding",
+      "mobileText": "Wedding",
+      "url": "/wedding/"
     },
     {
-      "text": "The Rest",
-      "url": "/the-rest/"
+      "text": "Travel & Hotels",
+      "mobileText": "Hotels",
+      "url": "/hotels/"
+    },
+    {
+      "text": "Our Registry",
+      "mobileText": "Registry",
+      "url": "/registry/"
+    },
+    {
+      "text": "Explore Boston",
+      "mobileText": "Explore",
+      "url": "/explore/"
     }
   ]
 }

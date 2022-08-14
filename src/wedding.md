@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: The Big Day
+title: The Wedding
 introSummary: >-
   Imagine an awesome party, at a lively, local spot, with amazing food and
   drinks, where two people you love just happen to be getting married. Then
@@ -67,7 +67,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 ### Iconic Boston Trolley
 
-If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing a trolley to shuttle guests to and from either of our wedding block hotels, Le Meridien and The Marriott Cambridge, to the restaurant on the wedding day. More details TBA soon!
+If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing a trolley to shuttle guests to and from either of our wedding block hotels, Le Méridien and The Marriott Cambridge, to the restaurant on the wedding day. More details TBA soon!
 
 ### Rideshare
 
