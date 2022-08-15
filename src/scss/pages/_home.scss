@@ -1,0 +1,156 @@
+.page-content {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+
+  @include media-query('md') {
+    flex-direction: row;
+  }
+}
+
+.col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  flex: 0 1 50%;
+  position: relative;
+  overflow: hidden;
+}
+
+.img-col {
+  height: 100%;
+}
+
+.text-col {
+  padding: 3vw;
+  flex-direction: column;
+  gap: 2vh;
+
+  @include media-query('md') {
+    gap: 2rem;
+  }
+}
+
+.img-wrapper {
+  aspect-ratio: 1;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.img-wrapper img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  transform: translateX(-26px) scale(1.1);
+  object-position: center 35%;
+}
+
+.all-blobs {
+  position: absolute;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.text, .meta {
+  position: relative;
+  z-index: 1;
+  color: white;
+}
+
+.text {
+  .one, .two {
+    position: relative;
+    line-height: 1;
+
+    &::first-letter {
+      font-size: 1.1em;
+    }
+  }
+
+  .one {
+    right: 0.5rem;
+
+    @include media-query('md') {
+      right: 1.5rem;
+    }
+  }
+
+  .two {
+    left: 2.5rem;
+
+    @include media-query('md') {
+      left: 3.5rem;
+    }
+  }
+
+  .come, .stay {
+    @include apply-utility('font', 'brandon');
+    font-size: 1rem;
+    font-weight: 200;
+    display: block;
+    position: absolute;
+    top: 0;
+    opacity: 0.65;
+
+    @include media-query('md') {
+      font-size: 2rem;
+      left: 7rem;
+    }
+  }
+  .love, .and, .party {
+    font-size: 3.5rem;
+    @include apply-utility('font', 'herbert');
+    position: relative;
+
+    @include media-query('md') {
+      font-size: 7rem;
+    }
+  }
+  .come {
+    left: 2.15rem;
+
+    @include media-query('md') {
+      left: 4rem;
+    }
+  }
+  .and {
+    opacity: 0.65;
+  }
+  .stay {
+    left: 3.4rem;
+    top: -0.25rem;
+
+    @include media-query('md') {
+      left: 7rem;
+    }
+  }
+}
+
+.meta {
+  .date-and-time, .location {
+    text-align: center;
+    opacity: 0.8;
+  }
+
+  .date-and-time {
+    font-family: 'Herbert';
+    font-size: 1rem;
+
+    @include media-query('md') {
+      font-size: 1.5rem;
+    }
+  }
+
+  .location {
+    font-family: 'Brandon Grotesque';
+    font-size: 0.875rem;
+    margin-top: 0.5vh;
+
+    @include media-query('md') {
+      font-size: 1.25rem;
+    }
+  }
+}

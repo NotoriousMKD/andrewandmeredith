@@ -159,6 +159,10 @@
       padding: get-size(700);
       font-size: get-size(500);
     }
+
+    strong {
+      font-weight: 600;
+    }
   }
 
   &__footer {
