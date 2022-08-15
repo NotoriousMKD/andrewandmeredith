@@ -12,21 +12,21 @@ introSummary: >-
 
 
 <figure>
-    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-napa.webp">
+    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-napa.jpg">
     <figcaption>Andrew & Meredith, so hot right now.<figcaption>
 </figure>
 
 <figure>
-    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-ouray.webp">
+    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-ouray.jpg">
     <figcaption>Andrew & Meredith, so hot right now.<figcaption>
 </figure>
 
 <figure>
-    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,q_auto,w_1600/v1660497510/Save_the_Date_-_Andrew_Meredith_2.webp">
+    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,q_auto,w_1600/v1660497510/Save_the_Date_-_Andrew_Meredith_2.jpg">
     <figcaption>Andrew & Meredith, MARV'ing it up.<figcaption>
 </figure>
 
 <figure class="hero">
-    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-box.webp">
+    <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best/v1660502773/meredrew-box.jpg">
     <figcaption>Andrew & Meredith, so hot right now.<figcaption>
 </figure>

@@ -22,7 +22,7 @@ introSummary: >-
 <div class="page-content">
   <div class="col img-col">
     <div class="img-wrapper">
-      <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best,c_fill,g_auto:faces/v1660502773/meredrew-box.webp">
+      <img src="https://res.cloudinary.com/aborstein/image/upload/c_scale,h_1200,q_auto:best,c_fill,g_auto:faces/v1660502773/meredrew-box.jpg">
     </div>
   </div>
 
