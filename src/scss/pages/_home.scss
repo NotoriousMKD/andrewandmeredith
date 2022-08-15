@@ -1,9 +1,9 @@
 .page-content {
   display: flex;
-  height: 100%;
   flex-direction: column;
 
   @include media-query('md') {
+    height: 100%;
     flex-direction: row;
   }
 }
@@ -26,8 +26,10 @@
   padding: 3vw;
   flex-direction: column;
   gap: 2vh;
+  aspect-ratio: 1;
 
   @include media-query('md') {
+    aspect-ratio: auto;
     gap: 2rem;
   }
 }

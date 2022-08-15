@@ -12,6 +12,12 @@ introSummary: >-
 
   main {
     flex-shrink: 1;
+    overflow: auto;
+  }
+  @media (min-width: 60rem) {
+    main {
+      overflow: hidden
+    }
   }
 </style>
 <div class="page-content">
