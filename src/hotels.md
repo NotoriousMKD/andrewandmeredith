@@ -19,7 +19,7 @@ For our guests' convenience, we have secured two different discounted hotel opti
 
 > ☝️ Our Hotel
 >
-> We're staying at Le Méridien along with our wedding party and we're hosting Friday Cocktails and Sunday Brunch there. We'll also have trolleys transporting folks to and from both wedding block hotels.
+> We're staying at Le Méridien along with our wedding party and we're hosting Friday Cocktails and Sunday Brunch there. But we'll have trolleys transporting folks to and from both wedding block hotels.
 
 #### [The Marriott](https://goo.gl/maps/KJxcu23ywJZvkWKc7)
 
