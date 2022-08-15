@@ -2,7 +2,7 @@
   color: var(--color-primary);
   background-color: white;
   border-radius: 1rem;
-  outline: currentColor auto 1px;
+  border: 1px solid currentColor;
   box-shadow: none;
   @include apply-utility('font', 'brandon');
   font-size: 0.75rem;
@@ -20,7 +20,7 @@
 .atcb-button.atcb-single:focus, .atcb-button.atcb-single:hover,
 .atcb-button.atcb-active:not(.atcb-modal-style,.atcb-dropoverlay):hover {
   background-color: white !important;
-  outline: 1px solid var(--color-primary);
+  border: 1px solid currentColor;
 }
 .atcb-list.atcb-light.atcb-generated-button {
   box-shadow: none;
