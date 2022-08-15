@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Let's Party!
+title: Home
 introSummary: >-
   On November 5, 2022 Andrew & Meredith are getting married at [Alden &
   Harlow](http://www.aldenharlow.com/) in Boston, MA. It will be awesome.

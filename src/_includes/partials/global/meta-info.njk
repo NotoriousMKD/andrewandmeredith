@@ -1,4 +1,8 @@
-{% set pageTitle = title + ' - ' + site.name %}
+{% set pageTitle = site.name %}
+{% if title %}
+  {% set pageTitle = title + ' - ' + site.name %}
+{% endif %}
+
 {% set pageDesc = site.description %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
@@ -23,7 +27,7 @@
 <meta property="og:description" content="{{ pageDesc }}" />
 
 
-{% if socialImage %}  
+{% if socialImage %}
   <meta property="og:image" content="{{ socialImage }}" />
   <meta name="twitter:image" content="{{ socialImage }}" />
   <meta property="og:image:alt" content="Page image for {{ site.name }}" />
