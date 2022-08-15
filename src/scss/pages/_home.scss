@@ -95,9 +95,10 @@
     display: block;
     position: absolute;
     top: 0;
-    opacity: 0.65;
+    opacity: 0.75;
 
     @include media-query('md') {
+      opacity: 0.65;
       font-size: 2rem;
       left: 7rem;
     }
