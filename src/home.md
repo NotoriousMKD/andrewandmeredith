@@ -11,12 +11,11 @@ introSummary: >-
   }
 
   main {
-    flex-shrink: 1;
-    overflow: auto;
+    flex-shrink: 0;
   }
   @media (min-width: 60rem) {
     main {
-      overflow: hidden
+      flex-shrink: 1;
     }
   }
 </style>
