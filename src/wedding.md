@@ -67,7 +67,13 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 ### Iconic Boston Trolley
 
-If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing a trolley to shuttle guests to and from either of our wedding block hotels, Le Méridien and The Marriott Cambridge, to the restaurant on the wedding day. More details TBA soon!
+If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing two trolleys to shuttle guests to and from both of our wedding block hotels, Le Méridien and The Marriott Cambridge, to Alden & Harlow on the wedding day.
+
+The service will start at 4:30 PM and continue all the way to 11:30 PM. So feel free to hop and and off anytime, or head back early if you want to.
+
+Trolley stop timetable:
+- The Marriott @ 4:30 PM / 5:00 PM / 5:30 PM / 6:00pm
+- Le Mèridien @ 4:40 PM / 5:10 PM / 5:40 PM / 6:10pm
 
 ### Rideshare
 
