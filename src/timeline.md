@@ -78,7 +78,7 @@ Did you hear we're getting married? We built a website about it and everything. 
 
 ### 🍳 Brunch @ Le Méridien
 
-Before you head out, join us on **Nov. 6th @ 10:00 AM to 12:00 PM** at [Amuse Restaurant](https://www.instagram.com/amusecambridge/) and grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
+Before you head out, join us on **Nov. 6th @ 10:00 AM – 12:00 PM** at [Amuse Restaurant](https://www.instagram.com/amusecambridge/) and grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
 
 <div class="atcb">
   <script type="application/ld+json">
