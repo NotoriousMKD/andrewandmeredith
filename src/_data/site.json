@@ -1,12 +1,13 @@
 {
   "showThemeCredit": false,
   "name": "Andrew & Meredith",
-  "description": "On Nov 5, 2022 Andrew & Meredith are getting married at Alden & Harlow in Boston, MA. It will be awesome.",
+  "description": "On Nov. 5, 2022 Andrew & Meredith are getting married in Boston. Let's party!",
   "shortDesc": "Say hello 👋 [hiandrewandmeredith@gmail.com](mailto:hiandrewandmeredith@gmail.com)",
   "url": "https://andrewandmeredith.com",
   "authorEmail": "hiandrewandmeredith@gmail.com",
   "authorName": "Andrew & Meredith",
   "enableThirdPartyComments": false,
   "faviconPath": "/images/favicon.ico",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 5,
+  "socialImage": "https://res.cloudinary.com/aborstein/image/upload/c_crop,w_1200,h_900,q_auto:best,c_fill,g_auto:faces/v1660502773/meredrew-box.jpg"
 }
