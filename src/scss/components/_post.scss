@@ -163,6 +163,34 @@
     strong {
       font-weight: 600;
     }
+
+    details {
+      display: inline;
+      margin: 0;
+      max-width: 100%;
+
+      img {
+        margin-top: 1.35rem;
+      }
+    }
+
+    summary {
+      color: var(--color-dark);
+      position: relative;
+      display: inline-block;
+      background: var(--color-theme-highlight);
+      padding: 0.2rem 0.4rem 0.3rem 0.4rem;
+      text-decoration: underline;
+      text-decoration-color: var(--color-primary);
+      word-break: break-word;
+      line-height: 1.2;
+      cursor: pointer;
+
+      &:focus, &:hover {
+        outline: currentColor auto 1px;
+        text-decoration: underline;
+      }
+    }
   }
 
   &__footer {

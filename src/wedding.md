@@ -93,7 +93,14 @@ If you're driving in, we would recommend using the parking garage nearby. Trying
 
 The ceremony will be partially seated and the dinner will be mingle-y, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
 
-If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/jyGgrUKeEX9m1RER9) are highly encouraged.
+If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect.
+<details>
+  <summary>Morphsuits are highly encouraged.</summary>
+  <figure>
+    <img alt="Andrew wearing a red morphsuit embracing Meredith as they both laugh" src="/images/morphsuit.jpg">
+    <figcaption>Andrew proposing to Meredith, in a Morphsuit</figcaption>
+  </figure>
+</details>
 
 ### Menu
 
