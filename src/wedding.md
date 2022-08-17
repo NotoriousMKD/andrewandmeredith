@@ -69,7 +69,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing two trolleys to shuttle guests to and from both of our wedding block hotels, Le Méridien and The Marriott Cambridge, to Alden & Harlow on the wedding day.
 
-The service will start at 4:30 PM and continue all the way to 11:30 PM. So feel free to hop and and off anytime, or head back early if you want to.
+The trolley service will start at 4:30 PM and continue all the way to 11:30 PM. So feel free to hop and and off anytime, or head back early if you want to.
 
 Trolley stop timetable:
 - The Marriott @ 4:30 PM / 5:00 PM / 5:30 PM / 6:00pm
@@ -93,7 +93,7 @@ If you're driving in, we would recommend using the parking garage nearby. Trying
 
 The ceremony will be partially seated and the dinner will be mingle-y, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
 
-If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/g9kn5sFx2xW5HPpD7) are highly encouraged.
+If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect. [Morphsuits](https://photos.app.goo.gl/jyGgrUKeEX9m1RER9) are highly encouraged.
 
 ### Menu
 

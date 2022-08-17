@@ -7,7 +7,7 @@ introSummary: The main event is on Saturday, but we'll be celebrating all weeken
 
 ### 🥂 Cocktails @ Le Méridien
 
-Join us **Nov. 4 @ 8:00 PM – 10:00 PM** in [the lobby bar](https://www.marriott.com/en-us/hotels/bosbm-le-Méridien-boston-cambridge/dining) for some cheers and beers in the lobby the night before the wedding. It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
+Join us **Nov. 4th @ 8:00 PM – 10:00 PM** in [the lobby bar](https://www.marriott.com/en-us/hotels/bosbm-le-meridien-boston-cambridge/dining/) for some cheers and beers in the lobby the night before the wedding. It'll be a cash bar with light snacks: pretzels, popcorn, and ice cream sandwiches.
 
 <div class="atcb">
   <script type="application/ld+json">
@@ -42,7 +42,7 @@ Join us **Nov. 4 @ 8:00 PM – 10:00 PM** in [the lobby bar](https://www.marriot
 
 ### 💍 Wedding @ Alden & Harlow
 
-Did you hear we're getting married? We built a website about it and everything. Join us on **Nov. 5 @ 6:00 PM – 11:00 PM** at [Alden & Harlow](http://www.aldenharlow.com) to see what all the fuss is about (view [the wedding page](/wedding) for more details).
+Did you hear we're getting married? We built a website about it and everything. Join us on **Nov. 5th @ 6:00 PM – 11:00 PM** at [Alden & Harlow](http://www.aldenharlow.com) to see what all the fuss is about (view [the wedding page](/wedding/) for more details).
 
 <div class="atcb">
   <script type="application/ld+json">
@@ -78,7 +78,7 @@ Did you hear we're getting married? We built a website about it and everything. 
 
 ### 🍳 Brunch @ Le Méridien
 
-Before you head out, join us on **Nov. 6 @ 10:00 AM to 12:00 PM** at [Amuse Restaurant](https://www.instagram.com/amusecambridge/) and grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
+Before you head out, join us on **Nov. 6th @ 10:00 AM to 12:00 PM** at [Amuse Restaurant](https://www.instagram.com/amusecambridge/) and grab some buffet brunch and a heartfelt hug goodbye. Ask at the front desk and they'll give you a voucher for the "Davies/Borstein Brunch".
 
 <div class="atcb">
   <script type="application/ld+json">

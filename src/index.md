@@ -141,7 +141,7 @@ introSummary: >-
 
   <div class="noise"></div>
 
-  <a class="date-wrapper" data-confetti href="/home/">
+  <a class="date-wrapper" data-confetti href="/home">
     <div class="enter">
       <div data-intro-text>
         Enter the wedding website 🎉
@@ -169,7 +169,7 @@ introSummary: >-
       document.querySelector('.landing').classList.add('fade-to-white');
     }, 2000);
     setTimeout(() => {
-      document.location.href = '/home/';
+      document.location.href = '/home';
     }, 4500);
   }
   Array.from(document.querySelectorAll("[data-confetti]")).forEach(function (link) {
