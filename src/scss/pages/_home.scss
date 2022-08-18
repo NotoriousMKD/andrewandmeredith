@@ -66,6 +66,7 @@
   .one, .two {
     position: relative;
     line-height: 1;
+    margin-top: 0.25rem;
 
     &::first-letter {
       font-size: 1.1em;
@@ -90,7 +91,7 @@
 
   .come, .stay {
     @include apply-utility('font', 'brandon');
-    font-size: 1rem;
+    font-size: 1.25rem;
     font-weight: 200;
     display: block;
     position: absolute;
@@ -100,11 +101,12 @@
     @include media-query('md') {
       opacity: 0.65;
       font-size: 2rem;
+      font-weight: 200;
       left: 7rem;
     }
   }
   .love, .and, .party {
-    font-size: 3.5rem;
+    font-size: 4.5rem;
     @include apply-utility('font', 'herbert');
     position: relative;
 
@@ -113,21 +115,25 @@
     }
   }
   .come {
-    left: 2.15rem;
+    left: 2.7rem;
 
     @include media-query('md') {
       left: 4rem;
     }
   }
   .and {
+    left: 1rem;
     opacity: 0.65;
   }
+  .party {
+    left: 1rem;
+  }
   .stay {
-    left: 3.4rem;
+    left: 5.5rem;
     top: -0.25rem;
 
     @include media-query('md') {
-      left: 7rem;
+      left: 8rem;
     }
   }
 }
@@ -135,25 +141,24 @@
 .meta {
   .date-and-time, .location {
     text-align: center;
-    opacity: 0.8;
   }
 
   .date-and-time {
     font-family: 'Herbert';
-    font-size: 1rem;
+    font-size: 1.25rem;
 
     @include media-query('md') {
-      font-size: 1.5rem;
+      font-size: 1.75rem;
     }
   }
 
   .location {
     font-family: 'Brandon Grotesque';
-    font-size: 0.875rem;
+    font-size: 1.125rem;
     margin-top: 0.5vh;
 
     @include media-query('md') {
-      font-size: 1.25rem;
+      font-size: 1.5rem;
     }
   }
 }
