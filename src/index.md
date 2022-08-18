@@ -167,7 +167,7 @@ metaTitle: Andrew & Meredith | 11.05.22
       document.querySelector('.landing').classList.add('fade-to-white');
     }, 2000);
     setTimeout(() => {
-      document.location.href = '/home';
+      document.location.href = '/home/';
     }, 3500);
   }
   Array.from(document.querySelectorAll("[data-confetti]")).forEach(function (link) {
