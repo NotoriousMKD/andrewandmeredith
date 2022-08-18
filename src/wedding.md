@@ -30,7 +30,7 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 **8:00 PM | Dinner.** Mingling continues and dinner fare materializes, buffet style (seating for everyone, but nothing assigned). Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.
 
-**9:00 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
+**9:30 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
 
 **11:00 PM | Goodbyes.** Late night snacks and some bittersweet goodbyes.
 
