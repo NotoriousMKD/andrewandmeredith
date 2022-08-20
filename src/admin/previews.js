@@ -69,11 +69,10 @@ const SiteData = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/base.njk"
-    context={({ name, shortDesc, showThemeCredit }) => ({
+    context={({ name, shortDesc }) => ({
       site: {
         name,
         shortDesc,
-        showThemeCredit,
       },
     })}
   />
