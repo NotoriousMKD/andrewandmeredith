@@ -1,17 +1,20 @@
 <footer role="contentinfo" class="[ site-foot ] [ pad-top-700 pad-bottom-700 ]">
   <div class="wrapper">
     <div class="[ site-foot__inner ] [ md:box-flex space-between align-start ]">
-      {% if site.shortDesc %}
-        <div>
-          <article class="[ site-foot__details ] [ sf-flow ]">
-            {# <h2 class="font-base text-600">{{ site.name }}</h2> #}
-            {{ site.shortDesc | markdownFilter | safe }}
-          </article>
+      <div class="[ md:width-half ]">
+        <div class="[ site-foot__details ] [ sf-flow ]">
+          <h2 class="font-base text-500">👋 Say Hello</h2>
+          We'd love to hear from you! Send us a note at <a href="mailto:hiandrewandmeredith@gmail.com">hiandrewandmeredith@gmail.com</a>.
+          <h2 class="font-base text-500">🍿 Watch the Proposal</h2>
+          On April 28, 2019 Andrew proposed to Meredith wearing a full-body morphsuit inside a giant gift box while they were playing virtual reality. Obviously!
         </div>
-      {% endif %}
-      <div>
-        {# {% include "partials/components/nav.njk" %} #}
-        {# <theme-toggle></theme-toggle> #}
+      </div>
+      <div class="[ md:width-half gap-top-300 md:gap-top-0 ]">
+        <div class="[ site-foot__details ] [ sf-flow ]">
+          <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_dpudhoz9ay videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/dpudhoz9ay/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+          <script src="https://fast.wistia.com/embed/medias/dpudhoz9ay.jsonp" async></script>
+          <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+        </div>
       </div>
     </div>
   </div>
