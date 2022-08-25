@@ -5,7 +5,7 @@
     <div class="[ site-head__inner ] [ md:box-flex space-between align-center ]">
       <a href="/home/" class="[ site-head__site-name ] [ leading-tight ]"{{ 'aria-current=page' if page.url == '/home/' | safe }}>
         <span class="visually-hidden">{{ 'Back to homepage' if page.url != '/' else 'Homepage' }}</span>
-        <span class="[ text-600 ]" aria-hidden="true">{{ site.name }}</span>
+        <span class="[ text-600 ]" aria-hidden="true">{{ site.authorName }}</span>
       </a>
       {% include "partials/components/nav.njk" %}
     </div>

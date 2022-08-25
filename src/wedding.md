@@ -4,7 +4,7 @@ title: The Wedding
 introSummary: >-
   Imagine an awesome party, at a lively, local spot, with amazing food and
   drinks, where two people you love just happen to be getting married. Then
-  imagine yourself getting to Boston on <b>November 5</b> so we can make that
+  get yourself to Cambridge on <b>November 5</b> so we can make that
   daydream a reality.
 ---
 ## When & Where
@@ -20,7 +20,7 @@ The **entire event** — ceremony, cocktails, dinner, and dancing — will be 
 
 ### Schedule
 
-We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough idea of what to expect:
+We'll be celebrating together from **6:00 PM to 11:30 PM**, and here's a rough idea of what to expect:
 
 **6:00 PM | Arrival.** Guests arrive to champagne glasses and give each other hearty hellos and hugs.
 
@@ -30,9 +30,11 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 **8:00 PM | Dinner.** Mingling continues and dinner fare materializes, buffet style (seating for everyone, but nothing assigned). Some lovely people will make lovely toasts. Maybe a ceremonial dance or two featuring the newlyweds.
 
-**9:30 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Don't forget to stop by the photo booth!
+**9:30 PM | Dancing.** Partayyyyyy tiiiiiime. Let's dance. No Macarena and no slow songs (no offense). Only 100% party jams. Stop by the photo booth, too!
 
-**11:00 PM | Goodbyes.** Late night snacks and some bittersweet goodbyes.
+**11:00 PM | Last call.** Don't forget to tip your bartender.
+
+**11:30 PM | Goodbyes.** Nooooo don't leave us 😭
 
 ## Transportation
 
@@ -40,15 +42,11 @@ We'll be celebrating together from **6:00 PM to 11:00 PM**, and here's a rough i
 
 If you’ve spent any time walking around Boston, you’ve seen [Old Town Trolley Tours'](https://www.trolleytours.com/boston) green and orange trolleys roaming the streets. We'll be providing two trolleys to shuttle guests to and from both of our wedding block hotels, Le Méridien and The Marriott Cambridge, to Alden & Harlow on the wedding day.
 
-The trolley service will start at 4:30 PM and continue all the way to 11:30 PM. So feel free to hop and and off anytime, or head back early if you want to.
-
-Trolley stop timetable:
-- The Marriott @ 4:30 PM / 5:00 PM / 5:30 PM / 6:00pm
-- Le Mèridien @ 4:40 PM / 5:10 PM / 5:40 PM / 6:10pm
+The trolley service will start at 5:00 PM and the last trolley will leave Alden & Harlow at 11:30 PM. So feel free to hop on and off anytime throughout the evening.
 
 ### Rideshare
 
-If getting your own transportation is a better fit for you, both hotels are 10-15 min away by Uber/Lyft, even on a busy summer night.
+If getting your own transportation is a better fit for you, both hotels are about 15 min away by Uber/Lyft, even on a busy summer night.
 
 ### Walking
 
@@ -56,15 +54,13 @@ If you end up at The Charles Hotel or the Sheraton Commander you'll be walking d
 
 ### Driving
 
-If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking in Boston will be basically impossible, but there are tons of other parking garages around Boston if you want to look elsewhere. Let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
+If you're driving in, we would recommend using the parking garage nearby. Trying to find street parking near the restaurant will be basically impossible, but let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9) and we'll be happy to snag you a free parking pass for the evening.
 
 ## The Vibe
 
 ### Attire
 
-The ceremony will be partially seated and the dinner will be mingle-y, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun!
-
-If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect.
+The ceremony will be partially seated and the dinner will be mingle-y, so you will likely be standing more than you would at a typical wedding. It's probably not the right night for your highest stilettos. Wear something fun! If you're looking for a little more direction, we'd recommend a "fancy date night" type of outfit. Anything more formal than jeans and less formal than a tuxedo is perfect.
 <details>
   <summary>Morphsuits are highly encouraged.</summary>
   <figure>
@@ -75,12 +71,8 @@ If you're looking for a little more direction, we'd recommend a "fancy date nigh
 
 ### Menu
 
-We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good!
-
-There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten averse... If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
+We haven't finalized a menu yet, but as soon as we do we'll share it here. We promise it will taste good! There should be something for everyone — vegetarians and vegans, meat lovers, seafood fanatics, gluten averse... If you're concerned about dietary restrictions, please let us know [when you RSVP](https://forms.gle/oGE2CyvYXqrC5PDH9)!
 
 ## Kids
 
 We love you and your offspring, and you are absolutely welcome to bring kids to the wedding! It seems to us like there isn't a ton of space in this setting for having fun if you're a kid, but maybe it's super fun for kids to go to a wedding? We don't know because we are child-less and bewildered/amazed by parenting. We are happy to answer any specific questions you may have that would help you decide if you will bring your kids or not.
-
-If you need special food accommodations (e.g. the kids would prefer chicken nuggets to chicken torchon), Alden & Harlow is prepared and happy to help.

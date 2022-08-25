@@ -1,11 +1,11 @@
 {
   "authorEmail": "hiandrewandmeredith@gmail.com",
   "authorName": "Andrew & Meredith",
-  "description": "Andrew & Meredith are getting married in Boston — let's party!",
+  "description": "Andrew & Meredith are getting married. Let's party!",
   "enableThirdPartyComments": false,
   "faviconPath": "/images/favicon.ico",
   "maxPostsPerPage": 5,
-  "name": "Andrew & Meredith",
+  "name": "Andrew & Meredith | 11.05.22",
   "shortDesc": "Say hello 👋 [hiandrewandmeredith@gmail.com](mailto:hiandrewandmeredith@gmail.com)",
   "socialImage": "https://res.cloudinary.com/aborstein/image/upload/c_crop,w_1200,h_900,q_auto:best,c_fill,g_auto:faces/v1660502773/meredrew-box.jpg",
   "url": "https://andrewandmeredith.com"
