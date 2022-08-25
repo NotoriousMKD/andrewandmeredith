@@ -36,9 +36,8 @@ Join us **Nov. 4th @ 8:00 PM – 10:00 PM** in the lobby bar for some cheers and
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
       "trigger": "click",
-      "iCalFileName": "Reminder-Event"
+      "iCalFileName": "Friday-Cocktails_Andrew-and-Meredith-2022"
     }
   </script>
 </div>
@@ -77,9 +76,8 @@ Did you hear we're getting married? We built a website about it and everything. 
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
       "trigger": "click",
-      "iCalFileName": "Reminder-Event"
+      "iCalFileName": "Ceremony-Reception_Andrew-and-Meredith-2022"
     }
   </script>
 </div>
@@ -118,9 +116,8 @@ Before you head out, join us on **Nov. 6th @ 10:00 AM – 12:00 PM** at Amuse Re
         "Yahoo"
       ],
       "timeZone": "America/New_York",
-      "timeZoneOffset": "-05:00",
       "trigger": "click",
-      "iCalFileName": "Reminder-Event"
+      "iCalFileName": "Sunday-Brunch_Andrew-and-Meredith-2022"
     }
   </script>
 </div>
