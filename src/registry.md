@@ -6,7 +6,14 @@ introSummary: >-
 ---
 ## Gifts
 
-Coming soon!
+**Coming soon!** *(hopefully by ~Sep 1st)*
+
+<!--
+Some things we want you to know:
+- We'd prefer to have used versions of most gifts, if it's easy enough to find them. If we were buying most of these items ourselves we'd look for them first on Craigslist or Facebook Marketplace. We love re-using! But we also don't want you to spend a ton of energy sourcing gifts.
+- We also love supporting local businesses. If you can't find an item secondhand, buying it locally is wonderful too. Of course, only if it's easy to do.
+- Zola let's you [price match](https://www.zola.com/wedding-registry/benefits/price-match) items (with [some caveats](https://help.zola.com/hc/en-us/articles/115002839891-What-is-a-qualifying-product-for-price-matching-). So if you find an item elsewhere online that's cheaper than our registry you can buy it and then email support for reimbursement.
+-->
 
 <!-- <a class="zola-registry-embed" href="www.zola.com/registry/andrew-and-meredith" data-registry-key="andrew-and-meredith">Our Wedding Registry</a>
 <script>
