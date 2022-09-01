@@ -8,7 +8,7 @@ introSummary: >-
 
 ### The Registry
 
-<a href="www.zola.com/registry/andrew-and-meredith">🎁 View Our Wedding Registry</a>
+<a href="https://www.zola.com/registry/andrew-and-meredith">🎁 View Our Wedding Registry</a>
 
 ### Preface
 
