@@ -8,7 +8,7 @@ introSummary: You need a plan, Stan! We can help. View all the deets about the r
 
 ### Wedding Block Hotels
 
-For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”:
+For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”. **Note:** If the discounted rooms are sold out let us know and we'll' ask the hotel to release more!
 
 #### [Le Méridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
