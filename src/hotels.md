@@ -8,14 +8,14 @@ introSummary: You need a plan, Stan! We can help. View all the deets about the r
 
 ### Wedding Block Hotels
 
-For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”. **Note:** If the discounted rooms are sold out let us know and we'll' ask the hotel to release more!
+For our guests' convenience, we have secured two different discounted hotel options near our wedding venue, under the “Davies/Borstein Wedding Room Block”.
 
 #### [Le Méridien](https://goo.gl/maps/Bs52XamKjugYJxyU6)
 
 * **Block Rate**: $219
 * **Location**: Central Square (1.5 mi from venue)
 * **Booking**: Call [617-577-0200](tel:6175770200) or [book Le Meriden online](https://www.marriott.com/events/start.mi?id=1647348171625&key=GRP)
-* **Deadline**: October 7
+* **Deadline**: ~~October 7~~ **UPDATE:** Our discounted hotel block at this hotel is now full. You can still book rooms at Le Meridien at the normal rate, though.
 
 > ☝️ Our Hotel
 >
