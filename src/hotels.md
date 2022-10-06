@@ -26,7 +26,7 @@ For our guests' convenience, we have secured two different discounted hotel opti
 * **Block Rate**: $199
 * **Location**: Kendall Square (2 mi from venue)
 * **Booking**: Call [617-494-6600](tel:6174946600) or [book The Marriott online](https://www.marriott.com/events/start.mi?id=1648493727073&key=GRP)
-* **Deadline**: October 7
+* **Deadline**: ~~October 7~~ October 9
 
 ### Additional Hotels
 
