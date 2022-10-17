@@ -52,6 +52,13 @@ There are lots of options nearby! Our favorite squares (aka neighborhoods in Bos
 
 Did you know you can reach Boston by airplane? Crazy, right?? Grab yourself a flight to [Logan International Airport](http://www.massport.com/logan-airport/) and you can avoid all the hassle of having to pahk yah cah neayah Havahd Yahd.
 
+Once you're off the plane, you can take the Silver Line (a bus) from the aiport into Boston for free. The SL1 bus picks up and drops off at every Logan Airport terminal. You can hop on the bus for free, and get off the bus at South Station in downtown Boston. To continue on to the hotels, make your way to the Inbound Red Line (a train) towards Alewife.
+
+If you're staying at the Boston Marriott Cambridge, you'll get off the train at the Kendall/MIT stop which is [right next to the hotel](https://goo.gl/maps/KfjHLYKBpa9uBSAo9). 
+
+If you're staying at Le Meridien, you'll get off the train at the Central stop and [walk about 6 minutes to the hotel](https://goo.gl/maps/4Hn8cKPzn9HcYutt8).
+
+
 ### By Train or Bus
 
 Trains are awesome! And buses are totally fine! Whichever you fancy, you'll want to arrive at [South Station](https://www.south-station.net/) in downtown Boston.
